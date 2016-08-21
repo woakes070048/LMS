@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "79163714794",
+    "project_id": "deliveryapp-92ea7"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79163714794:android:fb5e25184ec16b38",
+        "android_client_info": {
+          "package_name": "edu.vesit.deliveryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMbUnHAKcFLAN3lE0qGp2AYCRNQdl24YY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
