@@ -26,10 +26,19 @@ This system aims to ensure timely delivery of goods in an easily controllable ma
 - Jquery
 - AJAX
 
+## Screenshots
 
+![](https://raw.githubusercontent.com/rhari991/LMS/master/screenshots_and_demo_video/web_2.png)    
 
-    
+![](https://raw.githubusercontent.com/rhari991/LMS/master/screenshots_and_demo_video/web_3.png)  
 
+![](https://raw.githubusercontent.com/rhari991/LMS/master/screenshots_and_demo_video/web_5.png)   
+
+![](https://raw.githubusercontent.com/rhari991/LMS/master/screenshots_and_demo_video/android_2.png)  
+
+![](https://raw.githubusercontent.com/rhari991/LMS/master/screenshots_and_demo_video/android_3.png)  
+
+![](https://raw.githubusercontent.com/rhari991/LMS/master/screenshots_and_demo_video/android_4.png)  
 
 
 
